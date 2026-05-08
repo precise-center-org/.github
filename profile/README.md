@@ -16,8 +16,6 @@ We help precision rehabilitation teams to:
 - **Develop and implement** new measurement tools that complement clinical data  
 - **Integrate** multimodal data for easy viewing, analysis, and interpretation
 
----
-
 ## 📚 Types of Resources Available
 <details>
   <summary>Click to expand</summary>
@@ -101,7 +99,9 @@ By sharing our resources openly, we aim to:
 ---
 
 ## 📫 Contact & Learn More
-
+<details>
+  <summary>Click to expand</summary>
+  <br>
 Check out funding and training opportunities for early stage investigators on our website!
 
 - **Website:** https://precise-rehab.org
@@ -122,5 +122,6 @@ This work is supported by the [National Institutes of Health P50HD118624](https:
 
 Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
 
+</details>
 
 *Last updated: 2026-05-08-1441*
