@@ -1,4 +1,6 @@
-![Precise Center Logo](../imgs/precise-center-logo.svg)
+<p align="center">
+  <img src="../imgs/precise-center-logo.svg" alt="Precise Center Logo" width="1200">
+</p>
 
 # Welcome to the Precise Center Resource Core
 
@@ -6,7 +8,9 @@
 
 We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation.
 
-![Resource Roadmap](../imgs/resource-roadmap.png)
+<p align="center">
+  <img src="../imgs/resource-roadmap.png" alt="Resource Roadmap" width="800">
+</p>
 
 We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.
 
