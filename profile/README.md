@@ -8,8 +8,6 @@ We bridge the gap between cutting-edge research tools and practical clinical imp
 
 We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.
 
----
-
 ## 🔬 What We Provide
 
 We help precision rehabilitation teams to:
@@ -18,6 +16,7 @@ We help precision rehabilitation teams to:
 - **Develop and implement** new measurement tools that complement clinical data  
 - **Integrate** multimodal data for easy viewing, analysis, and interpretation
 
+---
 
 ## 📚 Types of Resources Available
 <details>
