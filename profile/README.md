@@ -84,8 +84,10 @@ We welcome contributions from Precise Center members and collaborators! This inc
 
 Whether you have analysis code, clinical tools, protocols, or educational materials to share, we would love to include them in our resource library.
 
-**Before sharing your resource, please contact our team and check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to get started.**
+**Before sharing your resource, please contact our team and check out our [Contribution Guidelines](../CONTRIBUTING.md) to get started.**
 </details>
+
+All users and contributors are expected to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## 🤝 Our Commitment to Open Science
 
