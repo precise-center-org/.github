@@ -33,15 +33,13 @@ We help precision rehabilitation teams to:
 - Standardized clinical assessment batteries
 - Questionnaires and outcome measures
 - Data collection protocols
-- Stakeholder engagement strategies
 
 ### 📖 Guidance & Documentation
 - Step-by-step implementation guides
 - Video tutorials with transcripts
 - Information sheets and schematics
-- Real-world examples and case studies
+- Stakeholder engagement strategies
 </details>
-
 
 ## 👥 Who Is This For?
 <details>
@@ -91,27 +89,6 @@ We welcome contributions from Precise Center members and collaborators!
 **Need guidance?** Contact the Resource Core team for support in preparing and uploading your resources.
 </details>
 
-## 📂 Available Resources
-<details>
-  <summary>Click to expand</summary>
-  
-### Clinical Assessment Tools
-Tools and guidance for designing and implementing standardized assessment batteries
-
-### AI-Based Motor Assessment
-Computer vision tools for video-based movement analysis – "motion capture in your pocket"
-
-### Wearable Device Tools
-Resources for implementing consumer-grade wearable device monitoring in clinical and research settings
-
-### Data Integration Solutions
-Platforms and code for visualizing multimodal clinical data in centralized locations
-
-### Tutorials & Documentation
-Step-by-step guides, video tutorials, and educational materials
-</details>
-
-
 ## 🤝 Our Commitment to Open Science
 
 By sharing our resources openly, we aim to:
@@ -126,6 +103,7 @@ We have a proven commitment to usability – our team provides publicly availabl
 ---
 
 ## 📫 Contact & Learn More
+Check out funding and training opportunities for early stage investigators on our website!
 
 - **Website:** https://precise-rehab.org
 - **Email:** PreciseCenter@kennedykrieger.org
@@ -136,9 +114,9 @@ We have a proven commitment to usability – our team provides publicly availabl
 
 If you use resources from this repository in your work, please cite:
 
-The Center for Precision Rehabilitation Across the Lifespan (NIH P50HD118624)
+* Resource Core of the Center for Precision Rehabilitation Across the Lifespan (NIH P50HD118624)
 
-This work is supported by the National Institutes of Health P50HD118624.
+This work is supported by the [National Institutes of Health P50HD118624](https://reporter.nih.gov/search/4W3hBtC1IkStK9zikCtFYg/projects).
 
 
 ## 📄 License
