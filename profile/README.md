@@ -4,18 +4,6 @@
 
 <h1 align="center">Welcome to the Precise Center Resource Core</h1>
 
-## 📑 Table of Contents
-
-- [Our Mission](#our-mission)
-- [What We Provide](#-what-we-provide)
-- [Types of Resources Available](#-types-of-resources-available)
-- [Who Is This For?](#-who-is-this-for)
-- [Using Resources](#-using-resources)
-- [Want to Contribute?](#-want-to-contribute)
-- [Our Commitment to Open Science](#-our-commitment-to-open-science)
-- [Contact & Learn More](#-contact--learn-more)
-
-**📖 [Contribution Guidelines](../CONTRIBUTING.md) | 📜 [Code of Conduct](../CODE_OF_CONDUCT.md)**
 ## Our Mission
 
 We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation. We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.<br>
@@ -23,6 +11,17 @@ We bridge the gap between cutting-edge research tools and practical clinical imp
 <p align="center">
   <img src="../imgs/resource-roadmap.png" alt="Resource Roadmap" width="800">
 </p>
+
+## ➕ Table of Contents
+
+- [What We Provide](#-what-we-provide)
+- [Types of Resources Available](#-types-of-resources-available)
+- [Who Is This For?](#-who-is-this-for)
+- [Using Resources](#-using-resources)
+- [Want to Contribute?](#-want-to-contribute)
+- [Our Commitment to Open Science](#-our-commitment-to-open-science)
+- [Contact & Learn More](#-contact--learn-more)
+- Quick Access Links: [Contribution Guidelines](../CONTRIBUTING.md) | [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ## 🔬 What We Provide
 
