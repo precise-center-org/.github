@@ -42,19 +42,19 @@ We help precision rehabilitation teams to:
 <details>
   <summary>Click to expand</summary>
   
-### Rehabilitation Clinicians
-Physical therapists, occupational therapists, speech-language pathologists, physiatrists, and neurologists who want to:
-- Track patient outcomes objectively over time
-- Measure movement quality and quantity
-- Document patient progress within and outside the clinic
-
 ### Rehabilitation Researchers
 Clinical and translational researchers who need:
 - Validated tools for movement assessment
 - Scalable data collection systems
 - Open-source analysis code
 
-### Clinical Teams
+### Rehabilitation Clinicians
+Physical therapists, occupational therapists, speech-language pathologists, physiatrists, and neurologists who want to:
+- Track patient outcomes objectively over time
+- Measure movement quality and quantity
+- Document patient progress within and outside the clinic
+- 
+### Informatics and Health Systems Teams
 Teams implementing precision rehabilitation models and seeking:
 - Blueprints for clinical data batteries
 - Integration solutions for multimodal data
