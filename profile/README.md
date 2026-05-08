@@ -81,7 +81,7 @@ You can get started by:
 ## 🤝 Want to Contribute?
 <details>
   <summary>Click to expand</summary>
-<br>  
+<br><br>
 We welcome contributions from Precise Center members and collaborators! This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community.<br>
 
 Whether you have analysis code, clinical tools, protocols, or educational materials to share, to include them in our resource library.
