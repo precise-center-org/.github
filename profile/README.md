@@ -69,8 +69,9 @@ Teams implementing precision rehabilitation models and seeking:
 ## 🚀 Using Resources
 <details>
   <summary>Click to expand</summary>
-
-### You can get started by:
+<br>
+  
+You can get started by:
 1. **Browsing repositories** to find tools and resources relevant to your needs
 2. **Watching video tutorials** with step-by-step instructions
 3. **Downloading and adapting materials** resources to your specific clinical or research context
@@ -81,8 +82,8 @@ Teams implementing precision rehabilitation models and seeking:
 ## 🤝 Want to Contribute?
 <details>
   <summary>Click to expand</summary>
-  
-We welcome contributions from Precise Center members and collaborators. This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community! 
+<br>  
+We welcome contributions from Precise Center members and collaborators! This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community.
 
 Whether you have analysis code, clinical tools, protocols, or educational materials to share, to include them in our resource library.
 
@@ -98,11 +99,10 @@ By sharing our resources openly, we aim to:
 - 🤝 Build a collaborative community advancing precision rehabilitation
 - 💡 Enable clinicians to provide better, data-informed care
 
-We have a proven commitment to usability – our team provides publicly available repositories with detailed instructions and freely available step-by-step tutorials on YouTube.
-
 ---
 
 ## 📫 Contact & Learn More
+
 Check out funding and training opportunities for early stage investigators on our website!
 
 - **Website:** https://precise-rehab.org
