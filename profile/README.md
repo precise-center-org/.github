@@ -81,12 +81,12 @@ You can get started by:
 ## 🤝 Want to Contribute?
 <details>
   <summary>Click to expand</summary>
-<br><br>
-We welcome contributions from Precise Center members and collaborators! This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community.<br>
+<br>
+We welcome contributions from Precise Center members and collaborators! This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community.<br><br>
 
-Whether you have analysis code, clinical tools, protocols, or educational materials to share, to include them in our resource library.
+Whether you have analysis code, clinical tools, protocols, or educational materials to share, we would love to include them in our resource library.
 
-**Before sharing your resource, check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.**
+**Before sharing your resource, please contact our team and check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.**
 </details>
 
 ## 🤝 Our Commitment to Open Science
