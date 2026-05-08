@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="../imgs/precise-center-logo.svg" alt="Precise Center Logo" width="1200">
+  <img src="../imgs/precise-center-logo.svg" alt="Precise Center Logo" width="800">
 </p>
 
-# Welcome to the Precise Center Resource Core
+<h1 align="center">Welcome to the Precise Center Resource Core</h1>
 
 ## Our Mission
 
