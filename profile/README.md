@@ -1,5 +1,4 @@
-<!-- Add Precise Center logo here -->
-![Precise Center Logo](path/to/logo.png)
+![Precise Center Logo](../imgs/precise-center-logo.svg)
 
 # Welcome to the Precise Center for Precision Rehabilitation
 
