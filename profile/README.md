@@ -66,27 +66,27 @@ Teams implementing precision rehabilitation models and seeking:
 **No extensive coding experience required!** Resources are designed to be accessible with minimal technical expertise.
 </details>
 
-
-## 🚀 Getting Started
+## 🚀 Using Resources
 <details>
   <summary>Click to expand</summary>
 
-### For Clinicians & Researchers:
-1. **Browse repositories** to find tools and resources relevant to your needs
-2. **Watch video tutorials** with step-by-step instructions
-3. **Download and adapt** resources to your specific clinical or research context
-4. **Share feedback** through issues or discussions
+### You can get started by:
+1. **Browsing repositories** to find tools and resources relevant to your needs
+2. **Watching video tutorials** with step-by-step instructions
+3. **Downloading and adapting materials** resources to your specific clinical or research context
+4. **Sharing feedback** through issues or discussions
+   
+</details>
 
-### For Contributors:
-We welcome contributions from Precise Center members and collaborators! 
+## 🤝 Want to Contribute?
+<details>
+  <summary>Click to expand</summary>
+  
+We welcome contributions from Precise Center members and collaborators. This includes members of the team, pilot program grantees, PACES scholars, and the broader rehabilitation community! 
 
-**Before sharing your resource:**
-- ✅ Make it **generalizable** beyond your immediate use case
-- ✅ Provide **thorough documentation** (README files, code comments, usage instructions)
-- ✅ Follow **best practices** for version control and licensing
-- ✅ Connect your resource to relevant Center projects
+Whether you have analysis code, clinical tools, protocols, or educational materials to share, to include them in our resource library.
 
-**Need guidance?** Contact the Resource Core team for support in preparing and uploading your resources.
+**Before sharing your resource, check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.**
 </details>
 
 ## 🤝 Our Commitment to Open Science
@@ -124,4 +124,4 @@ This work is supported by the [National Institutes of Health P50HD118624](https:
 Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
 
 
-*Last updated: 2026-05-08-1341*
+*Last updated: 2026-05-08-1441*
