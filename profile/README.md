@@ -17,7 +17,7 @@ We help precision rehabilitation teams to:
 - **Design and implement** standardized batteries of clinical data collection
 - **Develop and implement** new measurement tools that complement clinical data  
 - **Integrate** multimodal data for easy viewing, analysis, and interpretation
----
+
 
 ## 📚 Types of Resources Available
 <details>
@@ -42,7 +42,6 @@ We help precision rehabilitation teams to:
 - Real-world examples and case studies
 </details>
 
----
 
 ## 👥 Who Is This For?
 <details>
@@ -69,7 +68,6 @@ Teams implementing precision rehabilitation models and seeking:
 **No extensive coding experience required!** Resources are designed to be accessible with minimal technical expertise.
 </details>
 
----
 
 ## 🚀 Getting Started
 <details>
@@ -93,8 +91,6 @@ We welcome contributions from Precise Center members and collaborators!
 **Need guidance?** Contact the Resource Core team for support in preparing and uploading your resources.
 </details>
 
----
-
 ## 📂 Available Resources
 <details>
   <summary>Click to expand</summary>
@@ -115,7 +111,6 @@ Platforms and code for visualizing multimodal clinical data in centralized locat
 Step-by-step guides, video tutorials, and educational materials
 </details>
 
----
 
 ## 🤝 Our Commitment to Open Science
 
@@ -136,7 +131,6 @@ We have a proven commitment to usability – our team provides publicly availabl
 - **Email:** PreciseCenter@kennedykrieger.org
 - **Location:** Kennedy Krieger Institute and Johns Hopkins University School of Medicine
 
----
 
 ## 📜 How to Cite
 
@@ -146,12 +140,10 @@ The Center for Precision Rehabilitation Across the Lifespan (NIH P50HD118624)
 
 This work is supported by the National Institutes of Health P50HD118624.
 
----
 
 ## 📄 License
 
 Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
 
----
 
 *Last updated: 2026-05-08-1341*
