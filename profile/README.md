@@ -1,6 +1,6 @@
 ![Precise Center Logo](../imgs/precise-center-logo.svg)
 
-# Welcome to the Precise Center for Precision Rehabilitation
+# Welcome to the Precise Center Resource Core
 
 ## Our Mission
 
