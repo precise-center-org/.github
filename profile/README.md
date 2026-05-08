@@ -6,13 +6,11 @@
 
 ## Our Mission
 
-We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation.
+We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation. We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.<br>
 
 <p align="center">
   <img src="../imgs/resource-roadmap.png" alt="Resource Roadmap" width="800">
 </p>
-
-We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.
 
 ## 🔬 What We Provide
 
