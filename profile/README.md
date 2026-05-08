@@ -93,7 +93,7 @@ Whether you have analysis code, clinical tools, protocols, or educational materi
 
 All users and contributors are expected to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
-## 🤝 Our Commitment to Open Science
+## ✨ Our Commitment to Open Science
 
 By sharing our resources openly, we aim to:
 
