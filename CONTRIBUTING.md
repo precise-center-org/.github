@@ -181,7 +181,7 @@ Contact the repository author first to discuss
 **Q: I'm not very technical. Can I still contribute?**  
 A: Absolutely! We welcome all types of resources including clinical protocols, questionnaires, and other educational materials. The Resource Core team can help you determine the best format and method in which to upload your contribution.
 
-**Q: I'm new to GitHub. Where do I begin?**
+**Q: I'm new to GitHub. Where do I begin?** <br>
 A: Check out [GitHub's Getting Started Guide](https://docs.github.com/en/get-started). Need help with Git? See [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 **Q: Do I need to be a Precise Center member to contribute?**  
