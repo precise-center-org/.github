@@ -53,7 +53,7 @@ Physical therapists, occupational therapists, speech-language pathologists, phys
 - Track patient outcomes objectively over time
 - Measure movement quality and quantity
 - Document patient progress within and outside the clinic
-- 
+  
 ### Informatics and Health Systems Teams
 Teams implementing precision rehabilitation models and seeking:
 - Blueprints for clinical data batteries
