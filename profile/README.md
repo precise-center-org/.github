@@ -7,7 +7,7 @@
 
 We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation.
 
-We are committed to **open science and usability** – our technologies are designed to be usable for clinicians and researchers with minimal technical expertise.
+We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.
 
 ---
 
@@ -18,19 +18,11 @@ We help precision rehabilitation teams to:
 - **Design and implement** standardized batteries of clinical data collection
 - **Develop and implement** new measurement tools that complement clinical data  
 - **Integrate** multimodal data for easy viewing, analysis, and interpretation
-
-### Our Design Principles
-
-Our resources are informed by interviews with more than 50 rehabilitation clinicians and designed with four key constraints in mind:
-
-✅ No additional equipment, setup, or calibration  
-✅ No additional time beyond current clinical standard  
-✅ Easily interpretable results  
-✅ Longitudinal tracking within and outside of the clinic
-
 ---
 
 ## 📚 Types of Resources Available
+<details>
+  <summary>Click to expand</summary>
 
 ### 🔧 Tools & Software
 - **AI-based motor assessment** using computer vision – analyze patient movement from simple smartphone videos
@@ -49,11 +41,14 @@ Our resources are informed by interviews with more than 50 rehabilitation clinic
 - Video tutorials with transcripts
 - Information sheets and schematics
 - Real-world examples and case studies
+</details>
 
 ---
 
 ## 👥 Who Is This For?
-
+<details>
+  <summary>Click to expand</summary>
+  
 ### Rehabilitation Clinicians
 Physical therapists, occupational therapists, speech-language pathologists, physiatrists, and neurologists who want to:
 - Track patient outcomes objectively over time
@@ -73,10 +68,13 @@ Teams implementing precision rehabilitation models and seeking:
 - Accessible technology tools
 
 **No extensive coding experience required!** Resources are designed to be accessible with minimal technical expertise.
+</details>
 
 ---
 
 ## 🚀 Getting Started
+<details>
+  <summary>Click to expand</summary>
 
 ### For Clinicians & Researchers:
 1. **Browse repositories** to find tools and resources relevant to your needs
@@ -94,11 +92,14 @@ We welcome contributions from Precise Center members and collaborators!
 - ✅ Connect your resource to relevant Center projects
 
 **Need guidance?** Contact the Resource Core team for support in preparing and uploading your resources.
+</details>
 
 ---
 
 ## 📂 Available Resources
-
+<details>
+  <summary>Click to expand</summary>
+  
 ### Clinical Assessment Tools
 Tools and guidance for designing and implementing standardized assessment batteries
 
@@ -113,6 +114,7 @@ Platforms and code for visualizing multimodal clinical data in centralized locat
 
 ### Tutorials & Documentation
 Step-by-step guides, video tutorials, and educational materials
+</details>
 
 ---
 
