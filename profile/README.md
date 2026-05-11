@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to the Precise Center Resource Core</h1>
 
-## Our Mission
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Our Mission
 
 We bridge the gap between cutting-edge research tools and practical clinical implementation in rehabilitation. Our goal is to provide resources that integrate clinician-centered AI, remote monitoring tools, and clinical data for comprehensive functional outcomes within and outside of the clinic during rehabilitation. We are committed to **open science and accessibility** – our technologies are designed to be accessible to clinicians and researchers with minimal technical expertise.<br>
 
@@ -12,7 +12,7 @@ We bridge the gap between cutting-edge research tools and practical clinical imp
   <img src="../imgs/resource-roadmap.png" alt="Resource Roadmap" width="800">
 </p>
 
-## ➕ Table of Contents
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Table of Contents
 
 - [What We Provide](#-what-we-provide)
 - [Types of Resources Available](#-types-of-resources-available)
@@ -23,7 +23,7 @@ We bridge the gap between cutting-edge research tools and practical clinical imp
 - [Contact & Learn More](#-contact--learn-more)
 - Quick Access Links: [Contribution Guidelines](../CONTRIBUTING.md) | [Code of Conduct](../CODE_OF_CONDUCT.md)
 
-## 🔬 What We Provide
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> What We Provide
 
 We help precision rehabilitation teams to:
 
@@ -31,45 +31,45 @@ We help precision rehabilitation teams to:
 - **Develop and implement** new measurement tools that complement clinical data  
 - **Integrate** multimodal data for easy viewing, analysis, and interpretation
 
-## 📚 Types of Resources Available
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Types of Resources Available
 <details>
   <summary>Click to expand</summary>
 
-### 🔧 Tools & Software
+### ➕ Tools & Software
 - **AI-based motor assessment** using computer vision – analyze patient movement from simple smartphone videos
 - **Wearable device data collection** – streamlined management of data from consumer-grade devices like Fitbit
 - **Analysis code** for movement kinematics and clinical outcomes
 - **Data integration platforms** for viewing multimodal data in one place
 
-### 📋 Clinical Materials
+### ➕ Clinical Materials
 - Standardized clinical assessment batteries
 - Questionnaires and outcome measures
 - Data collection protocols
 
-### 📖 Guidance & Documentation
+### ➕ Guidance & Documentation
 - Step-by-step implementation guides
 - Video tutorials with transcripts
 - Information sheets and schematics
 - Stakeholder engagement strategies
 </details>
 
-## 👥 Who Is This For?
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Who Is This For?
 <details>
   <summary>Click to expand</summary>
   
-### Rehabilitation Researchers
+### ➕ Rehabilitation Researchers
 Clinical and translational researchers who need:
 - Validated tools for movement assessment
 - Scalable data collection systems
 - Open-source analysis code
 
-### Rehabilitation Clinicians
+### ➕ Rehabilitation Clinicians
 Physical therapists, occupational therapists, speech-language pathologists, physiatrists, and neurologists who want to:
 - Track patient outcomes objectively over time
 - Measure movement quality and quantity
 - Document patient progress within and outside the clinic
   
-### Informatics and Health Systems Teams
+### ➕ Informatics and Health Systems Teams
 Teams implementing precision rehabilitation models and seeking:
 - Blueprints for clinical data batteries
 - Integration solutions for multimodal data
@@ -78,7 +78,7 @@ Teams implementing precision rehabilitation models and seeking:
 **No extensive coding experience required!** Resources are designed to be accessible with minimal technical expertise.
 </details>
 
-## 🚀 Using Resources
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Using Resources
 <details>
   <summary>Click to expand</summary>
 <br>
@@ -91,7 +91,7 @@ You can get started by:
    
 </details>
 
-## 🤝 Want to Contribute?
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Want to Contribute?
 <details>
   <summary>Click to expand</summary>
 <br>
@@ -104,7 +104,7 @@ Whether you have analysis code, clinical tools, protocols, or educational materi
 All users and contributors are expected to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
 </details>
 
-## ✨ Our Commitment to Open Science
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Our Commitment to Open Science
 <details>
   <summary>Click to expand</summary>
   
@@ -116,7 +116,7 @@ By sharing our resources openly, we aim to:
 - 💡 Enable clinicians to provide better, data-informed care
 </details>
 
-## 📫 Contact & Learn More
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> Contact & Learn More
 <details>
   <summary>Click to expand</summary>
   <br>
@@ -126,7 +126,7 @@ Check out funding and training opportunities for early stage investigators on ou
 - **Email:** PreciseCenter@kennedykrieger.org
 - **Location:** Kennedy Krieger Institute and Johns Hopkins University School of Medicine
 
-## 📜 How to Cite
+## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> How to Cite
 
 If you use resources from this repository in your work, please cite:
 
@@ -138,8 +138,8 @@ This work is supported by the [National Institutes of Health P50HD118624](https:
 ## 📄 License
 
 Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
-
 </details>
+
 ---
 
 *Last updated: 2026-05-08-1441*
