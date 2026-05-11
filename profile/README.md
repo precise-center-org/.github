@@ -125,19 +125,19 @@ Check out funding and training opportunities for early stage investigators on ou
 - **Website:** https://precise-rehab.org
 - **Email:** PreciseCenter@kennedykrieger.org
 - **Location:** Kennedy Krieger Institute and Johns Hopkins University School of Medicine
+</details>
 
 ## <img src="../imgs/1776723553211.png" width="30" height="30" align="center"> How to Cite
-
+<details>
+  <summary>Click to expand</summary>
+  <br>
 If you use resources from this repository in your work, please cite:
 
 * Resource Core of the Center for Precision Rehabilitation Across the Lifespan (NIH P50HD118624)
 
 This work is supported by the [National Institutes of Health P50HD118624](https://reporter.nih.gov/search/4W3hBtC1IkStK9zikCtFYg/projects).
 
-
-## 📄 License
-
-Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
+**License:** Note that individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
 </details>
 
 ---
