@@ -105,15 +105,16 @@ All users and contributors are expected to follow our [Code of Conduct](../CODE_
 </details>
 
 ## ✨ Our Commitment to Open Science
-
+<details>
+  <summary>Click to expand</summary>
+  
 By sharing our resources openly, we aim to:
 
 - 🌍 Make precision rehabilitation accessible to all
 - 📊 Promote reproducible and transparent rehabilitation research
 - 🤝 Build a collaborative community advancing precision rehabilitation
 - 💡 Enable clinicians to provide better, data-informed care
-
----
+</details>
 
 ## 📫 Contact & Learn More
 <details>
@@ -124,7 +125,6 @@ Check out funding and training opportunities for early stage investigators on ou
 - **Website:** https://precise-rehab.org
 - **Email:** PreciseCenter@kennedykrieger.org
 - **Location:** Kennedy Krieger Institute and Johns Hopkins University School of Medicine
-
 
 ## 📜 How to Cite
 
@@ -140,5 +140,5 @@ This work is supported by the [National Institutes of Health P50HD118624](https:
 Individual repositories may have specific licenses. Please check each repository for details. We encourage open-source licensing to maximize accessibility.
 
 </details>
-
+---
 *Last updated: 2026-05-08-1441*
